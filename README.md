@@ -10,8 +10,9 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=doniaries&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=doniaries&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=doniaries&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=doniaries&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=doniaries&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=doniaries&layout=compact&theme=tokyonight)
